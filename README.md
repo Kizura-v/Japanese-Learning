@@ -4,6 +4,7 @@ Practical Japanese for **natural conversation, sentence construction, family lif
 
 ## Start here
 
+- **[English ↔ Japanese Dictionary](dictionary/README.md):** JMdict-powered command-line lookup with Japanese spellings, kana readings, English definitions, and source attribution.
 - **[Daily Training — E-R-K](daily-training/README.md):** 15-minute routine, a 14-day progression, sentence-order practice, particles, conjugation, natural casual speech, and realistic dialogues.
 - **[Master Japanese Study Dataset](data/japanese-study-master.csv):** 961 entries exported from the connected Google Sheets workbook across 18 subject tabs (snapshot on 2026-10-27).
 - **[Google Sheets — Everyday Study Workbook](https://docs.google.com/spreadsheets/d/1d9_zZAU9MBIifsuHmX5HsnhGb4KQBnjrIFp7xTV9KDk/edit):** primary mobile-friendly study interface.
