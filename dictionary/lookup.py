@@ -47,7 +47,7 @@ def matches(entry, query, direction):
         if any(query in s for s in entry["japanese"] + entry["readings"]):
             return True
     if direction in ("auto", "en"):
-        if any(re.search(r"(?<!\\w)" + re.escape(q) + r"(?!\\w)", m.casefold()) for m in entry["english"]):
+        if any(q in m.casefold() for m in entry["english"]):
             return True
     return False
 
